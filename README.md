@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Patwal</h1>
-<h3 align="center">Full Stack (Web) + Mobile App Dev (Flutter + iOS)</h3>
+<h3 align="center">tldr;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patwalnik&label=Total%20visitors&color=0795ed&style=flat" alt="patwalnik" /> </p>
 
